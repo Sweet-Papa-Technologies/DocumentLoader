@@ -13,9 +13,9 @@ This is a docker application and suite of code to:
 - Provide API to retrieve data from vector database
 
 # TODO:
-[] Setup ChromaDB Docker and persistent storage
-[] Setup App Docker Container
-    [] Endpoint for Processing and Saving Embedding
-    [] Endpoint for Embedding Search and Retrieval
-[] Network Settings / Docker Compose Setup
-[] Readme and Documentation
+- Setup ChromaDB Docker and persistent storage
+- Setup App Docker Container
+    - Endpoint for Processing and Saving Embedding
+    - Endpoint for Embedding Search and Retrieval
+- Network Settings / Docker Compose Setup
+-  Readme and Documentation
